@@ -47,4 +47,4 @@ void SkipLine()
 
 ```
 
-![Вывода в консоль](https://github.com/AlexeySemibratov/c_sharp-book-library-sample/tree/master/Images/output_sample.jpeg)
+![Вывода в консоль](Images/output_sample.jpeg)
